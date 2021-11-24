@@ -1,32 +1,33 @@
 # Income-Qualification
 
 Analysis Tasks to be performed:
-Identify the output variable.
 
-Understand the type of data.
+1.Identify the output variable.
 
-
-Check if there are any biases in your dataset.
+2.Understand the type of data.
 
 
-Check whether all members of the house have the same poverty level.
+3.Check if there are any biases in your dataset.
 
 
-Check if there is a house without a family head.
+4.Check whether all members of the house have the same poverty level.
 
 
-Set poverty level of the members and the head of the house within a family.
+5.Check if there is a house without a family head.
 
 
-Count how many null values are existing in columns.
+6.Set poverty level of the members and the head of the house within a family.
 
 
-Remove null value rows of the target variable.
+7.Count how many null values are existing in columns.
 
 
-Predict the accuracy using random forest classifier.
+8.Remove null value rows of the target variable.
 
 
-Check the accuracy using random forest with cross validation.
+9.Predict the accuracy using random forest classifier.
+
+
+10.Check the accuracy using random forest with cross validation.
 
 
